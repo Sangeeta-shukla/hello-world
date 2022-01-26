@@ -14,6 +14,7 @@
             <p>Please enter your credentials to login.</p>
           </div>
         </div>
+	<br>
         <form class="login-form">
           <input type="text" placeholder="username"/>
           <input type="password" placeholder="password"/>
