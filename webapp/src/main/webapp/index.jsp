@@ -1,32 +1,19 @@
- <!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="style.css">
-<title> CSS Login Screen Tutorial </title>
-</head>
-<body>
-  <body>
-    <div class="login-page">
-      <div class="form">
-        <div class="login">
-          <div class="login-header">
-            <h3>LOGIN</h3>
-            <p>Please enter your credentials to login.</p>
-          </div>
-        </div>
-	<br>
-        <form class="login-form">
-          <input type="text" placeholder="Email"/>
-          <input type="text" placeholder="username"/>
-	  <br>
-          <input type="password" placeholder="password"/>
-	  <br>
-	  <br>
-          <button>login</button>
-          <p class="message">Not registered? <a href="#">Create an account</a></p>
-        </form>
-      </div>
-    </div>
-</body>
-</body>
-</html>
+<form>
+<div class="container">
+<h1>Register Here</h1>
+<p>Please fill in the details to create an account with us.</p>
+<hr>
+<label for="email"><b>Enter Email</b></label>
+<input type="text" placeholder="Enter Email" name="email">
+<label for="pwd"><b>Password</b></label>
+<input type="password" placeholder="Enter Password" name="pwd">
+<label for="confirm"><b>Confirm Password</b></label>
+<input type="password" placeholder="Confirm Password" name="confirm">
+<hr>
+<p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+<button type="submit" class="registerbtn"><strong>Register</strong></button>
+</div>
+<div class="container signin">
+<p>Already have an account? <a href="#">Sign in</a>.</p>
+</div>
+</form>
