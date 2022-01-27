@@ -16,9 +16,11 @@
         </div>
 	<br>
         <form class="login-form">
+          <input type="text" placeholder="Email"/>
           <input type="text" placeholder="username"/>
 	  <br>
           <input type="password" placeholder="password"/>
+	  <br>
 	  <br>
           <button>login</button>
           <p class="message">Not registered? <a href="#">Create an account</a></p>
