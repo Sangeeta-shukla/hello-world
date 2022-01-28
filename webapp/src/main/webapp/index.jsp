@@ -3,9 +3,9 @@
 <h1>Register Here</h1>
 <p>Please fill in the details to create an account with us.</p>
 <hr>
-<label for="email"><b>Enter Email</b></label>
+<label for="Name"><b>Enter Name</b></label>
 <br>
-<input type="text" placeholder="Enter Email" name="email">
+<input type="text" placeholder="Enter Name" name="Name">
 <br>
 <label for="pwd"><b>Password</b></label>
 <input type="password" placeholder="Enter Password" name="pwd">
