@@ -1,6 +1,6 @@
 <form>
 <div class="container">
-<h1>Hello Sangeeta!! welcome to DEVOPS  !!!!This is my first CICD pipeline and to view this Register Here</h1>
+<h1>Hello Sangeeta welcome to DEVOPS This is my first CICD pipeline and to view this Register Here</h1>
 <p>Please fill in the details to create an account with us.</p>
 <hr>
 <label for="Name"><b>Enter Name</b></label>
